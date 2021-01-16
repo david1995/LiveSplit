@@ -95,3 +95,7 @@
 	path = LiveSplit/Components/LiveSplit.Racetime
 	url = https://github.com/LiveSplit/LiveSplit.Racetime.git
 	branch = stable
+[submodule "LiveSplit/Components/LiveSplit.DiscordRichPresence"]
+	path = LiveSplit/Components/LiveSplit.DiscordRichPresence
+	url = https://github.com/david1995/LiveSplit.DiscordRichPresence.git
+	branch = main
